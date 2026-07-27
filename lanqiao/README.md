@@ -17,8 +17,9 @@
 
 ## 已同步题目
 
-| 个人编号 | 平台题号 | 题目 | 专题 | 链接 | 源码 |
+| 个人编号 | 平台题号 | 题目 | 专题 | 链接 | 笔记与源码 |
 | ---: | ---: | --- | --- | --- | --- |
-| 082 | 17022 | 奇偶排序【算法赛】 | 排序 | [蓝桥云课](https://www.lanqiao.cn/problems/17022/learning/) | [C++](sorting/082_17022_odd_even_sort.cpp) |
+| 082 | 17022 | 奇偶排序【算法赛】 | 排序 | [蓝桥云课](https://www.lanqiao.cn/problems/17022/learning/) | [笔记](sorting/082_17022_odd_even_sort.md) |
+| 083 | 10581 | 修改相同数列 | 排序、贪心 | [蓝桥云课](https://www.lanqiao.cn/problems/10581/learning/) | [C++](sorting/083_10581_make_arrays_equal.cpp) |
 
 新题直接加入对应专题文件夹，同时在本表增加一行即可。

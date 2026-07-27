@@ -19,7 +19,10 @@ cpp-algorithms-2000/
 ├── lanqiao/                 # 蓝桥杯算法赛题单
 │   ├── README.md            # 题单阶段与蓝桥杯索引
 │   └── sorting/             # 当前：排序专题
-│       └── 082_17022_odd_even_sort.cpp
+│       ├── 082_17022_odd_even_sort.md
+│       ├── 082_17022_odd_even_sort_grouping.cpp
+│       ├── 082_17022_odd_even_sort_comparator.cpp
+│       └── 083_10581_make_arrays_equal.cpp
 ├── leetcode/
 │   └── hot-100/             # 后续力扣 Hot 100
 ├── codeforces/
@@ -28,13 +31,14 @@ cpp-algorithms-2000/
     └── early-records/       # 正式同步前的旧代码
 ```
 
-目录先按平台区分，再按训练路线分类。一道题只保存一个 `.cpp` 文件，详细题解继续发布在 CSDN，避免“一题一目录”带来的层级过深问题。
+目录先按平台区分，再按训练路线分类。每道题默认保存一个 `.cpp` 文件；有多种值得记录的解法时，使用相同文件名前缀分别保存。详细笔记使用同名前缀的 `.md` 文件，避免“一题一目录”带来的层级过深问题。
 
 ## ✅ 正式打卡记录
 
-| 个人编号 | 平台题号 | 题目 | 平台 | 专题 | 题目链接 | 源码 |
+| 个人编号 | 平台题号 | 题目 | 平台 | 专题 | 题目链接 | 笔记与源码 |
 | ---: | ---: | --- | --- | --- | --- | --- |
-| 082 | 17022 | 奇偶排序【算法赛】 | 蓝桥云课 | 排序 | [题目](https://www.lanqiao.cn/problems/17022/learning/) | [C++](lanqiao/sorting/082_17022_odd_even_sort.cpp) |
+| 082 | 17022 | 奇偶排序【算法赛】 | 蓝桥云课 | 排序 | [题目](https://www.lanqiao.cn/problems/17022/learning/) | [笔记](lanqiao/sorting/082_17022_odd_even_sort.md) |
+| 083 | 10581 | 修改相同数列 | 蓝桥云课 | 排序、贪心 | [题目](https://www.lanqiao.cn/problems/10581/learning/) | [C++](lanqiao/sorting/083_10581_make_arrays_equal.cpp) |
 
 ## 🏷️ 文件命名
 
