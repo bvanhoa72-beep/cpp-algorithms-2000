@@ -1,6 +1,10 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+
+// 个人打卡 #082
+// 蓝桥云课题号：17022
+// 题目：https://www.lanqiao.cn/problems/17022/learning/
 using namespace std;
 
 int main()
