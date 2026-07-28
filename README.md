@@ -40,7 +40,7 @@ cpp-algorithms-2000/
 | ---: | ---: | --- | --- | --- | --- | --- |
 | 082 | 17022 | 奇偶排序【算法赛】 | 蓝桥云课 | 排序 | [题目](https://www.lanqiao.cn/problems/17022/learning/) | [笔记](lanqiao/sorting/082_17022_odd_even_sort.md) |
 | 083 | 10581 | 修改相同数列 | 蓝桥云课 | 排序、贪心 | [题目](https://www.lanqiao.cn/problems/10581/learning/) | [C++](lanqiao/sorting/083_10581_make_arrays_equal.cpp) |
-| 084 | 3236 | 切割 | 蓝桥云课 | 排序、贪心、前缀统计 | [题目](https://www.lanqiao.cn/problems/3236/learning/) | [C++](lanqiao/sorting/084_3236_cutting.cpp) |
+| 084 | 3236 | 切割 | 蓝桥云课 | 排序、贪心、前缀统计 | [题目](https://www.lanqiao.cn/problems/3236/learning/) | [动画与笔记](lanqiao/sorting/084_3236_cutting.md) |
 
 ## 🏷️ 文件命名
 
