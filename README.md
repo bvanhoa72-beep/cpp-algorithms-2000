@@ -24,7 +24,10 @@ cpp-algorithms-2000/
 │       ├── 082_17022_odd_even_sort_comparator.cpp
 │       ├── 083_10581_make_arrays_equal.cpp
 │       ├── 084_3236_cutting.cpp
-│       └── 085_3660_smallest_concatenation.cpp
+│       ├── 085_3660_smallest_concatenation.cpp
+│       ├── 086_8215_battery_power.md
+│       ├── 086_8215_battery_power_bruteforce.cpp
+│       └── 086_8215_battery_power_sorting.cpp
 ├── leetcode/
 │   └── hot-100/             # 后续力扣 Hot 100
 ├── codeforces/
@@ -43,6 +46,7 @@ cpp-algorithms-2000/
 | 083 | 10581 | 修改相同数列 | 蓝桥云课 | 排序、贪心 | [题目](https://www.lanqiao.cn/problems/10581/learning/) | [C++](lanqiao/sorting/083_10581_make_arrays_equal.cpp) |
 | 084 | 3236 | 切割 | 蓝桥云课 | 排序、贪心、前缀统计 | [题目](https://www.lanqiao.cn/problems/3236/learning/) | [动画与笔记](lanqiao/sorting/084_3236_cutting.md) |
 | 085 | 3660 | 小蓝爱串串 | 蓝桥云课 | 排序、自定义比较函数、字符串 | [题目](https://www.lanqiao.cn/problems/3660/learning/) | [C++](lanqiao/sorting/085_3660_smallest_concatenation.cpp) |
+| 086 | 8215 | 电池 | 蓝桥云课 | 枚举、排序、数学 | [题目](https://www.lanqiao.cn/problems/8215/learning/) | [笔记与两种解法](lanqiao/sorting/086_8215_battery_power.md) |
 
 ## 🏷️ 文件命名
 
